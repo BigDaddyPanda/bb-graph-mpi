@@ -1,0 +1,7 @@
+from mpi4py import MPI
+
+comm = MPI.COMM_WORLD
+rank = comm.Get_rank()
+print('My rank is ', rank)
+
+# mpiexec -n 5 py helloworld.py
