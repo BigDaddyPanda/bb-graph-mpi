@@ -11,7 +11,7 @@
 *   PiP
 *   Both of the [Files downloaded](https://www.microsoft.com/en-us/download/confirmation.aspx?id=100593) from here, namely msmpisdk.msi and msmpisetup.exe
 
-### How to make this sh*t run
+### How to make this awesome project run
 1.  Install the requirements above
 2.  Add the installation folder for each Program in your path variable
 >   Go to search and type environment and select first thing like "Edit System Variable"
